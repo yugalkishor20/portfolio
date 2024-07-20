@@ -18,7 +18,7 @@ const About = () => {
                         <p className='text-xl font-medium'>IIT (ISM), Dhanbad</p>
                         <div className='px-2 text-gray-400'>
                         <p>B.Tech. - Mechanical Engineering (2020-2024)</p>
-                        <p>Current CGPA - 7.96</p>
+                        <p>Overall CGPA - 8.30</p>
                         </div>
                     </li>
                     <li>
